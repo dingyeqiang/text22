@@ -22,3 +22,6 @@ require __DIR__ . '/../thinkphp/start.php';
    'path' => LOG_PATH,
    'level' => ['sql']
 ]);
+
+
+// 这个要提交到分支上去
